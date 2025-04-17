@@ -86,11 +86,12 @@ untuk menjalankan fungsi:
 ```bash
 dart run exam1_main.dart Your Name
 ```
+
 Jika tidak terdapat error : Could not find file `exam1_main.dart` Jalankan perintah berikut :
+
 ```bash
 dart run bin/exam1/exam1_main.dart Your Name
 ```
-
 
 Jika kode pada `exam1.dart` sudah diperbaiki sesuai ketentuan, maka keluarannya akan seperti berikut:
 
